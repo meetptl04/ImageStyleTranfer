@@ -1,6 +1,5 @@
 # ImageStyleTranfer
 
-Here’s a complete Markdown documentation for your GitHub repository:
 
 ---
 
@@ -177,9 +176,9 @@ class Visualization:
 
 Example output of style transfer, showing the original images and the final stylized image.
 
-![Original Image](path/to/original/image)
-![Style Image](path/to/style/image)
-![Stylized Image](path/to/stylized/image)
+![Original Image](https://github.com/meetptl04/ImageStyleTranfer/blob/main/the-starry-night.jpg)
+![Style Image](https://github.com/meetptl04/ImageStyleTranfer/blob/main/Fantasy-Garden.png)
+![Stylized Image](https://github.com/meetptl04/ImageStyleTranfer/blob/main/stylized_image.png)
 
 ## License
 
@@ -187,4 +186,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize the paths and content as needed for your repository!
