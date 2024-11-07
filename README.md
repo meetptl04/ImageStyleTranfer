@@ -22,7 +22,6 @@ The project consists of several key components:
   - [VGGModel](#vggmodel)
   - [StyleTransfer](#styletransfer)
   - [Visualization](#visualization)
-- [Interactive UI](#interactive-ui)
 - [Results](#results)
 - [License](#license)
 
