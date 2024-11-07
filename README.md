@@ -16,7 +16,6 @@ The project consists of several key components:
 
 - [Installation](#installation)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
 - [Components](#components)
   - [ImageProcessing](#imageprocessing)
   - [LossFunctions](#lossfunctions)
